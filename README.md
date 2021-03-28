@@ -9,7 +9,7 @@ Ps. This code is using Typescript.
 ### To install
 
 ```javascript
-yarn;
+yarn
 ```
 
 ### Running JSON Server
